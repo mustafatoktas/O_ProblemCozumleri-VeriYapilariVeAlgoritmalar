@@ -21,24 +21,17 @@ Algoritma Pratikleri<a name="readme-top"></a>
   <tbody>
     <tr>
       <td>LeetCode</td>
+      <td> <a href="./İçerikler/2) Single Number/Problem.md">Tek Sayı (Single Number)</a> </td>
+      <td>Kolay</td>
+      <td>Kotlin, C#</td>
+      <td>2 Kasım 2024</td>
+    </tr>
+    <tr>
+      <td>LeetCode</td>
       <td> <a href="./İçerikler/1) Contains Dublicate/Problem.md">Yinelenen Eleman (Contains Duplicate)</a> </td>
       <td>Kolay</td>
       <td>Kotlin, C#</td>
       <td>31 Ekim 2024</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <a href=""></a> </td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> <a href=""></a> </td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>

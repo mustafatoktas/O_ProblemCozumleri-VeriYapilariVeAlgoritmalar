@@ -1,7 +1,7 @@
 <h1 align="center">
-Yinelenen Eleman<a name="article-top"></a>
+Tek Sayı<a name="article-top"></a>
 </h1>
-<h3 align="center">Contains Dublicate</h3>
+<h3 align="center">Single Number</h3>
 
 ## İçindekiler
 
@@ -27,7 +27,7 @@ Yinelenen Eleman<a name="article-top"></a>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Eklenme Tarihi</th>
-    <td style="text-align: left;">31 Ekim 2024</td>
+    <td style="text-align: left;">2 kasım 2024</td>
   </tr>
 </table>
 
@@ -36,40 +36,39 @@ Yinelenen Eleman<a name="article-top"></a>
 
 ## Problem Açıklaması 
 
-Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en az iki kez geçiyorsa
-`true` döndür, eğer her eleman farklıysa `false` döndür.
+Boş olmayan bir `nums` tamsayı dizisi veriliyor. Dizideki her eleman iki kez yer alırken yalnızca bir eleman tek başına bulunuyor. Bu tek elemanı bulun.
+
+Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalışma süresi karmaşıklığında (O(n)) olacak şekilde gerçekleştirmeniz gerekiyor.
 
 
 ## Örnekler
 
 - ### Örnek 1
 
-**Girdi:** `nums = [1, 2, 3, 1]`
+**Girdi:** `nums = [2,2,1]`
 
-**Çıktı:** `true`
-
-**Açıklama:** 1 elemanı, 0 ve 3. indekslerde geçmektedir.
+**Çıktı:** `1`
 
 - ### Örnek 2
 
-**Girdi:** `nums = [1, 2, 3, 4]`
+**Girdi:** `nums = [4,1,2,1,2]`
 
-**Çıktı:** `false`
-
-**Açıklama:** Tüm elemanlar birbirinden farklı.
+**Çıktı:** `4`
 
 - ### Örnek 3
 
-**Girdi:** `nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]`
+**Girdi:** `nums = [1]`
 
-**Çıktı:** `true`
+**Çıktı:** `1`
 
 
 ## Kısıtlar
 
-`1 <= nums.length <= 10⁵`
+`1 <= nums.length <= 30.000`
 
-`-10⁹ <= nums[i] <= 10⁹`
+`-30.000 <= nums[i] <= 30.000`
+
+- Dizideki her eleman iki kez geçerken yalnızca bir eleman bir kez geçer.
 
 
 ## Çözüm
@@ -88,13 +87,13 @@ Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en
       <td>Kotlin</td>
       <td align="center"> <a href="./Kotlin.kt" target="_blank"> <img src="../0) İçerik Resources/Link.png" alt="Kotlin Çözümü" width="30"/> </a> </td>
       <td align="center">O(n)</td>
-      <td align="center">O(n)</td>
+      <td align="center">O(1)</td>
     </tr>
     <tr>
       <td>C#</td>
       <td align="center"> <a href="./CSharp.cs" target="_blank"> <img src="../0) İçerik Resources/Link.png" alt="C# Çözümü" width="30"/> </a> </td>
       <td align="center">O(n)</td>
-      <td align="center">O(n)</td>
+      <td align="center">O(1)</td>
     </tr>
   </tbody>
 </table>
