@@ -19,7 +19,7 @@ Yinelenen Eleman<a name="article-top"></a>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Zorluk Seviyesi</th>
-    <td style="text-align: left;">Kolay</td>
+    <td style="text-align: left;"> <img src="../0) İçerik Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/> </td>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Çözüm Dili</th>
@@ -39,6 +39,8 @@ Yinelenen Eleman<a name="article-top"></a>
 Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en az iki kez geçiyorsa
 `true` döndür, eğer her eleman farklıysa `false` döndür.
 
+
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Örnekler
 
@@ -65,12 +67,16 @@ Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en
 **Çıktı:** `true`
 
 
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+
 ## Kısıtlar
 
 `1 <= nums.length <= 10⁵`
 
 `-10⁹ <= nums[i] <= 10⁹`
 
+
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Çözüm
 

@@ -19,7 +19,7 @@ Tek Sayı<a name="article-top"></a>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Zorluk Seviyesi</th>
-    <td style="text-align: left;">Kolay</td>
+    <td style="text-align: left;"> <img src="../0) İçerik Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/> </td>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Çözüm Dili</th>
@@ -40,6 +40,8 @@ Boş olmayan bir `nums` tamsayı dizisi veriliyor. Dizideki her eleman iki kez y
 
 Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalışma süresi karmaşıklığında (O(n)) olacak şekilde gerçekleştirmeniz gerekiyor.
 
+
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Örnekler
 
@@ -62,6 +64,8 @@ Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalı
 **Çıktı:** `1`
 
 
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+
 ## Kısıtlar
 
 `1 <= nums.length <= 30.000`
@@ -70,6 +74,8 @@ Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalı
 
 - Dizideki her eleman iki kez geçerken yalnızca bir eleman bir kez geçer.
 
+
+![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Çözüm
 

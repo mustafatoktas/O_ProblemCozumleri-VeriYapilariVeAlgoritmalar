@@ -6,6 +6,28 @@ Algoritma Pratikleri<a name="readme-top"></a>
   <img src="./Readme Resources/Algoritma Pratikleri Logo.png" alt="Logo" width="120"/>
 </div>
 
+## İçindekiler  
+
+- [Repository Hakkında](#repository-hakkında)
+- [Algoritmik Problemler](#algoritmik-problemler)
+- [Big O Notasyonu Karmaşıklık Çizelgesi](#big-o-notasyonu-karmaşıklık-çizelgesi)
+- [Lisans](#lisans)
+- [İletişim](#i̇letişim)
+
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
+## Repository Hakkında 
+
+Bu repository, algoritma problemleri üzerinde pratik yaparak kodlama becerilerimi geliştirmek için oluşturuldu.
+
+Her problem için geliştirdiğim çözüm algoritmalarını dikkatle analiz edip optimize ederek en etkili ve verimli sonuçlara ulaşmaya odaklandım.
+
+Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan geliştiriciler için faydalı bir kaynak oluşturmuş olmak.
+
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
 ## Algoritmik Problemler
 
 <table>
@@ -21,20 +43,34 @@ Algoritma Pratikleri<a name="readme-top"></a>
   <tbody>
     <tr>
       <td>LeetCode</td>
+      <td> <a href="./İçerikler/3) Majority Element/Problem.md">Çoğunluk Elemanı (Majority Element)</a> </td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td>Kotlin, C#</td>
+      <td>28 Kasım 2024</td>
+    </tr>
+    <tr>
+      <td>LeetCode</td>
       <td> <a href="./İçerikler/2) Single Number/Problem.md">Tek Sayı (Single Number)</a> </td>
-      <td>Kolay</td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin, C#</td>
       <td>2 Kasım 2024</td>
     </tr>
     <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/1) Contains Dublicate/Problem.md">Yinelenen Eleman (Contains Duplicate)</a> </td>
-      <td>Kolay</td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin, C#</td>
       <td>31 Ekim 2024</td>
     </tr>
   </tbody>
 </table>
+
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
+## Big O Notasyonu Karmaşıklık Çizelgesi
+
+<img src="./Readme Resources/Big O Karmaşıklık Grafiği.png" alt="Big O Notasyonu Karmaşıklık Çizelgesi" height="450"/>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
