@@ -43,21 +43,21 @@ Uygulanan yığın, bir yığının normalde desteklediği tüm işlemleri deste
 
 1. `void push(int x)`
 
-  Eleman `x`'i yığının en üstüne ekler.
+   Eleman `x`'i yığının en üstüne ekler.
 
 2. `int pop()`
 
-  Yığının en üstündeki elemanı kaldırır ve geri döner.
+   Yığının en üstündeki elemanı kaldırır ve geri döner.
 
 3. `int top()`
 
-  Yığının en üstündeki elemanı döner (ancak kaldırmaz).
+   Yığının en üstündeki elemanı döner (ancak kaldırmaz).
 
 4. `boolean empty()` 
 
-  Yığın boşsa `true` doluysa `false` döner.
+   Yığın boşsa `true` doluysa `false` döner.
 
-### Önemli Notlar
+### Notlar
 
 - Sadece bir kuyruğun standart işlemlerini kullanabilirsiniz. Yani şu işlemleri kullanabilirsiniz:
   - Kuyruğa eleman eklemek **(push to back)**
@@ -95,11 +95,11 @@ myStack.empty();   // Yığının boş olup olmadığı kontrol edilir: false
 
 ## Kısıtlar
 
-`1 <= x <= 9`
+- `1 <= x <= 9`
 
-`push, pop, top, ve empty işlemleri toplamda en fazla 100 kez çağrılabilir.`
+- `push` `pop` `top` `empty` işlemleri toplamda en fazla 100 kez çağrılabilir.
 
-`Tüm pop ve top işlemleri geçerli çağrılar olacaktır.`
+- Tüm `pop` ve `top` işlemleri geçerli çağrılar olacaktır.
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)

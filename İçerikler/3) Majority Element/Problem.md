@@ -48,26 +48,26 @@ Dizide her zaman böyle bir çoğunluk elemanı bulunduğunu varsayabilirsiniz.
 
 - ### Örnek 1
 
-**Girdi:** `nums = [3,2,3]`
+  **Girdi:** `nums = [3,2,3]`
 
-**Çıktı:** `3`
+  **Çıktı:** `3`
 
 - ### Örnek 2
 
-**Girdi:** `nums = [2,2,1,1,1,2,2]`
+  **Girdi:** `nums = [2,2,1,1,1,2,2]`
 
-**Çıktı:** `2`
+  **Çıktı:** `2`
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Kısıtlar
 
-`n == nums.length`
+- `n == nums.length`
 
-`1 <= n <= 5 * 10⁴`
+- `1 <= n <= 5 * 10⁴`
 
-`-10⁹ <= nums[i] <= 10⁹`
+- `-10⁹ <= nums[i] <= 10⁹`
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)

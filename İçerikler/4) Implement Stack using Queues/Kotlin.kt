@@ -1,23 +1,23 @@
 class MyStack {
-    private val kuyruk: MutableList<Int> = mutableListOf()
+    private val yigin: MutableList<Int> = mutableListOf()
 
     fun push(x : Int) {
-        kuyruk.add(x)
+        yigin.add(x)
     }
 
     fun pop() : Int {
-        val sonEleman = kuyruk[kuyruk.size-1]
-        kuyruk.removeAt(kuyruk.size-1)
+        val sonEleman = yigin[yigin.size-1]
+        yigin.removeAt(yigin.size-1)
 
         return sonEleman
     }
 
     fun top() : Int {
-        return kuyruk[kuyruk.size-1]
+        return yigin[yigin.size-1]
     }
 
     fun empty() : Boolean {
-        return kuyruk.isEmpty()
+        return yigin.isEmpty()
     }
 
 }

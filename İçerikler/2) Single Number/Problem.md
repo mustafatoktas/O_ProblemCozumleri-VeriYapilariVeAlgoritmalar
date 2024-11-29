@@ -47,30 +47,30 @@ Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalı
 
 - ### Örnek 1
 
-**Girdi:** `nums = [2,2,1]`
+  **Girdi:** `nums = [2,2,1]`
 
-**Çıktı:** `1`
+  **Çıktı:** `1`
 
 - ### Örnek 2
 
-**Girdi:** `nums = [4,1,2,1,2]`
+  **Girdi:** `nums = [4,1,2,1,2]`
 
-**Çıktı:** `4`
+  **Çıktı:** `4`
 
 - ### Örnek 3
 
-**Girdi:** `nums = [1]`
+  **Girdi:** `nums = [1]`
 
-**Çıktı:** `1`
+  **Çıktı:** `1`
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Kısıtlar
 
-`1 <= nums.length <= 30.000`
+- `1 <= nums.length <= 30.000`
 
-`-30.000 <= nums[i] <= 30.000`
+- `-30.000 <= nums[i] <= 30.000`
 
 - Dizideki her eleman iki kez geçerken yalnızca bir eleman bir kez geçer.
 

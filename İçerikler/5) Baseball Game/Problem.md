@@ -1,7 +1,7 @@
 <h1 align="center">
-Yinelenen Eleman<a name="article-top"></a>
+Beyzbol Oyunu<a name="article-top"></a>
 </h1>
-<h3 align="center">Contains Dublicate</h3>
+<h3 align="center">Baseball Game</h3>
 
 ## İçindekiler
 
@@ -23,11 +23,11 @@ Yinelenen Eleman<a name="article-top"></a>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Çözüm Dili</th>
-    <td style="text-align: left;">Kotlin, C#</td>
+    <td style="text-align: left;">Kotlin</td>
   </tr>
   <tr>
     <th style="text-align: left; font-weight: bold;">Eklenme Tarihi</th>
-    <td style="text-align: left;">31 Ekim 2024</td>
+    <td style="text-align: left;">29 Kasım 2024</td>
   </tr>
 </table>
 
@@ -36,8 +36,31 @@ Yinelenen Eleman<a name="article-top"></a>
 
 ## Problem Açıklaması 
 
-Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en az iki kez geçiyorsa
-`true` döndür, eğer her eleman farklıysa `false` döndür.
+Garip kurallara sahip bir beyzbol oyununun skorlarını tutuyorsunuz. Oyunun başında skor tablosu boştur.
+
+Size her bir öğesi aşağıdakilerden biri olan bir işlemler listesi (operations) verilir:
+
+1. Bir tam sayı `x`
+
+   Skor tablosuna yeni bir `x` skoru ekleyin.
+
+2. `"+"`
+
+   Skor tablosuna önceki iki skorun **toplamı** olan yeni bir skor ekleyin.
+
+3. `"D"`
+
+   Skor tablosuna önceki skorun **iki katı** olan yeni bir skor ekleyin.
+
+4. `"C"` 
+
+   Önceki skoru geçersiz kılar ve skor tablosundan siler.
+
+İşlemlerin uygulanmasından sonra skor tablosundaki tüm skorların toplamını döndürün.
+
+### Notlar
+
+- Test durumları, verilen tüm işlemlerin geçerli olduğunu ve tüm ara hesaplamaların 32-bit tam sayı sınırları içinde kaldığını garanti eder.
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
@@ -46,34 +69,63 @@ Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en
 
 - ### Örnek 1
 
-  **Girdi:** `nums = [1, 2, 3, 1]`
+  **Girdi:** `ops = ["5","2","C","D","+"]`
 
-  **Çıktı:** `true`
+  **Çıktı:** `30`
 
-  **Açıklama:** 1 elemanı, 0 ve 3. indekslerde geçmektedir.
+  **Açıklama:** 
+  ```
+  "5" -> 5 skoru tabloya eklendi. Skor tablosu: [5]
+  "2" -> 2 skoru tabloya eklendi. Skor tablosu: [5, 2]
+  "C" -> Önceki skor (2) geçersiz kılındı. Skor tablosu: [5]
+  "D" -> Önceki skorun (5) iki katı (10) tabloya eklendi. Skor tablosu: [5, 10]
+  "+" -> Önceki iki skorun toplamı (5 + 10 = 15) tabloya eklendi. Skor tablosu: [5, 10, 15]
+  Toplam: 5 + 10 + 15 = 30
+  ```
 
 - ### Örnek 2
 
-  **Girdi:** `nums = [1, 2, 3, 4]`
+  **Girdi:** `ops = ["5","-2","4","C","D","9","+","+"]`
 
-  **Çıktı:** `false`
+  **Çıktı:** `27`
 
-  **Açıklama:** Tüm elemanlar birbirinden farklı.
+  **Açıklama:** 
+  ```
+  "5" -> 5 skoru tabloya eklendi. Skor tablosu: [5]
+  "-2" -> -2 skoru tabloya eklendi. Skor tablosu: [5, -2]
+  "4" -> 4 skoru tabloya eklendi. Skor tablosu: [5, -2, 4]
+  "C" -> Önceki skor (4) geçersiz kılındı. Skor tablosu: [5, -2]
+  "D" -> Önceki skorun (-2) iki katı (-4) tabloya eklendi. Skor tablosu: [5, -2, -4]
+  "9" -> 9 skoru tabloya eklendi. Skor tablosu: [5, -2, -4, 9]
+  "+" -> Önceki iki skorun toplamı (-4 + 9 = 5) tabloya eklendi. Skor tablosu: [5, -2, -4, 9, 5]
+  "+" -> Önceki iki skorun toplamı (9 + 5 = 14) tabloya eklendi. Skor tablosu: [5, -2, -4, 9, 5, 14]
+  Toplam: 5 + (-2) + (-4) + 9 + 5 + 14 = 27.
+  ```
 
 - ### Örnek 3
 
-  **Girdi:** `nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]`
+  **Girdi:** `ops = ["1","C"]`
 
-  **Çıktı:** `true`
+  **Çıktı:** `0`
 
+  **Açıklama:** 
+  ```
+  "1" -> 1 skoru tabloya eklendi. Skor tablosu: [1]
+  "C" -> Önceki skor (1) geçersiz kılındı ve silindi. Skor tablosu: []
+  Skor tablosu boş olduğundan, toplam 0'dır.
+  ```
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
 
 ## Kısıtlar
 
-- `1 <= nums.length <= 10⁵`
+- `1 ≤ ops.length ≤ 1000`
 
-- `-10⁹ <= nums[i] <= 10⁹`
+- `operations[i]`, `"C"`, `"D"`, `"+"` veya aralık olarak `[-3 * 10⁴, 3 * 10⁴]` içinde bir tam sayıyı temsil eden bir string olacaktır.
+
+- `"+"` işlemi için her zaman skor tablosunda en az iki önceki skor bulunacaktır.
+
+- `"C"` ve `"D"` işlemleri için her zaman skor tablosunda en az bir önceki skor bulunacaktır.
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
@@ -93,12 +145,6 @@ Bir tam sayı dizisi olan nums verildiğinde eğer herhangi bir değer dizide en
     <tr>
       <td>Kotlin</td>
       <td align="center"> <a href="./Kotlin.kt" target="_blank"> <img src="../0) İçerik Resources/Link.png" alt="Kotlin Çözümü" width="30"/> </a> </td>
-      <td align="center">O(n)</td>
-      <td align="center">O(n)</td>
-    </tr>
-    <tr>
-      <td>C#</td>
-      <td align="center"> <a href="./CSharp.cs" target="_blank"> <img src="../0) İçerik Resources/Link.png" alt="C# Çözümü" width="30"/> </a> </td>
       <td align="center">O(n)</td>
       <td align="center">O(n)</td>
     </tr>
