@@ -41,6 +41,13 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>LeetCode</td>
+      <td> <a href="./İçerikler/4) Implement Stack using Queues/Problem.md">Kuyruk Kullanarak Yığın Uygulaması (Implement Stack using Queues)</a> </td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td>Kotlin</td>
+      <td>29 Kasım 2024</td>
+    </tr>
     <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/3) Majority Element/Problem.md">Çoğunluk Elemanı (Majority Element)</a> </td>
