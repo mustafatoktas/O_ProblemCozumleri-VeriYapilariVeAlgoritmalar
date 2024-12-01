@@ -72,7 +72,7 @@ başlarını verecek. Eğer doğru şekilde kesişim düğümünü döndürürse
 
   <img src="./Resources/example_1.png" alt="Örnek 1 Resmi" height="200"/>
 
-  **Girdi:** `intersectVal = 8` `listA = [4, 1, 8, 4, 5]` `listB = [5, 6, 1, 8, 4, 5]` `skipA = 2, skipB = 3`
+  **Girdi:** `intersectVal = 8` `listA = [4, 1, 8, 4, 5]` `listB = [5, 6, 1, 8, 4, 5]` `skipA = 2` `skipB = 3`
 
   **Çıktı:** `8` değerinde kesişim bulundu.
 
@@ -89,7 +89,7 @@ başlarını verecek. Eğer doğru şekilde kesişim düğümünü döndürürse
 
   <img src="./Resources/example_2.png" alt="Örnek 2 Resmi" height="200"/>
 
-  **Girdi:** `intersectVal = 2` `listA = [1, 9, 1, 2, 4]` `listB = [3, 2, 4]` `skipA = 3, skipB = 1`
+  **Girdi:** `intersectVal = 2` `listA = [1, 9, 1, 2, 4]` `listB = [3, 2, 4]` `skipA = 3` `skipB = 1`
 
   **Çıktı:** `2` değerinde kesişim bulundu.
 

@@ -47,6 +47,14 @@ algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kay
   <tbody>
   <tr>
       <td>LeetCode</td>
+      <td> <a href="./İçerikler/9) Find the Duplicate Number/Problem.md">Tekrarlanan Numarayı Bulma (Find the Duplicate Number)</a> </td>
+      <td>Linked List</td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
+      <td>Kotlin</td>
+      <td>2 Aralık 2024</td>
+    </tr>
+  <tr>
+      <td>LeetCode</td>
       <td> <a href="./İçerikler/8) Intersection of Two Linked Lists/Problem.md">Bağlı İki Listenin Kesişimi (Intersection of Two Linked Lists)</a> </td>
       <td>Linked List</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
