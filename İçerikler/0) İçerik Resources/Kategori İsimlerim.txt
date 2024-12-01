@@ -1,0 +1,29 @@
+- **Diziler ve Listeler (Array  & List)**  
+  Dizi ile ilgili problemlere odaklanır.
+
+- **Bağlantılı Liste (Linked List)**  
+  Bağlantılı listelerle ilgili algoritmalar ve veri yapıları.
+
+- **Yığın ve Kuyruk (Stack & Queue)**  
+  Yığın ve kuyruk veri yapılarıyla ilgili problemler.
+
+- **Ağaçlar (Trees)**  
+  İkili ağaçlar, AVL ağaçları, BST ve diğer ağaç yapılarıyla ilgili problemler.
+
+- **Graf (Graph)**  
+  Düğümler ve kenarlar arasındaki ilişkileri içeren algoritmalar.
+
+- **Dinamik Programlama (Dynamic Programming)**  
+  Alt problemlerle çözüm geliştiren algoritmalar.
+
+- **Sıralama ve Arama (Sorting & Searching)**  
+  Farklı sıralama algoritmaları ve arama yöntemlerini kapsar.
+
+- **Matematiksel Problemler (Mathematical)**  
+  Matematiksel hesaplamalar, asal sayılar, kombinatorik problemler gibi.
+
+- **Karmaşıklık (Complexity)**  
+  Big O analizleri ve zorluk seviyeleriyle ilgili problemler.
+
+- **İleri Düzey (Advanced)**  
+  Daha karmaşık veri yapıları ve algoritmalarla ilgili problemler.

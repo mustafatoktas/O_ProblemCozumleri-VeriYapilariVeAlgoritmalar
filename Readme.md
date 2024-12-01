@@ -19,11 +19,14 @@ Algoritma Pratikleri<a name="readme-top"></a>
 
 ## Repository Hakkında 
 
-Bu repository, algoritma problemleri üzerinde pratik yaparak kodlama becerilerimi geliştirmek için oluşturuldu.
+Bu repository, algoritma problemleri üzerinde çalışarak kodlama becerilerimi geliştirmek ve algoritmik
+düşünce yeteneğimi güçlendirmek amacıyla oluşturduğum bir projedir.
 
-Her problem için geliştirdiğim çözüm algoritmalarını dikkatle analiz edip optimize ederek en etkili ve verimli sonuçlara ulaşmaya odaklandım.
+Her problem için çözüm algoritmalarını dikkatle tasarlayıp analiz ederek en etkili ve optimize edilmiş sonuçlara ulaşmayı hedefledim.
+Bu süreçte, yalnızca problemi çözmekle kalmayıp kodun performansını ve okunabilirliğini artırmayı da öncelik haline getirdim.
 
-Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan geliştiriciler için faydalı bir kaynak oluşturmuş olmak.
+Amacım, hem kendi öğrenim sürecimi belgeleyerek sürekli bir gelişim ortamı oluşturmak hem de
+algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kaynak sunmaktır.
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
@@ -34,7 +37,8 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <thead>
     <tr>
       <th>Kaynak</th>
-      <th>Problem Başlığı</th>
+      <th>Başlık</th>
+      <th>Kategori</th>
       <th>Zorluk Seviyesi</th>
       <th>Çözüm Dili</th>
       <th>Eklenme Tarihi</th>
@@ -43,7 +47,16 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <tbody>
   <tr>
       <td>LeetCode</td>
+      <td> <a href="./İçerikler/8) Intersection of Two Linked Lists/Problem.md">Bağlı İki Listenin Kesişimi (Intersection of Two Linked Lists)</a> </td>
+      <td>Linked List</td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td>Kotlin</td>
+      <td>1 Aralık 2024</td>
+    </tr>
+  <tr>
+      <td>LeetCode</td>
       <td> <a href="./İçerikler/7) Remove Nth Node From End of List/Problem.md">Listenin Sonundan n'inci Düğümü Kaldır (Remove Nth Node From End of List)</a> </td>
+      <td>Linked List</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
       <td>Kotlin</td>
       <td>1 Aralık 2024</td>
@@ -51,6 +64,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/6) Daily Temperatures/Problem.md">Günlük Sıcaklıklar (Daily Temperatures)</a> </td>
+      <td>Stack & Queue</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
@@ -58,6 +72,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/5) Baseball Game/Problem.md">Beyzbol Oyunu (Baseball Game)</a> </td>
+      <td>Stack & Queue</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
@@ -65,6 +80,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/4) Implement Stack using Queues/Problem.md">Kuyruk Kullanarak Yığın Uygulaması (Implement Stack using Queues)</a> </td>
+      <td>Stack & Queue</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
@@ -72,6 +88,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
     <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/3) Majority Element/Problem.md">Çoğunluk Elemanı (Majority Element)</a> </td>
+      <td>Array & List</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin, C#</td>
       <td>28 Kasım 2024</td>
@@ -79,6 +96,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
     <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/2) Single Number/Problem.md">Tek Sayı (Single Number)</a> </td>
+      <td>Array & List</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin, C#</td>
       <td>2 Kasım 2024</td>
@@ -86,6 +104,7 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
     <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/1) Contains Dublicate/Problem.md">Yinelenen Eleman (Contains Duplicate)</a> </td>
+      <td>Array & List</td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
       <td>Kotlin, C#</td>
       <td>31 Ekim 2024</td>

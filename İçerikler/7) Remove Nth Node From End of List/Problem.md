@@ -18,16 +18,20 @@ Listenin Sonundan n'inci Düğümü Kaldır<a name="article-top"></a>
     <td style="text-align: left;">LeetCode</td>
   </tr>
   <tr>
+    <th style="text-align: left; font-weight: bold;">Kategori</th>
+    <td style="text-align: left;">Linked List</td>
+  </tr>
+  <tr>
     <th style="text-align: left; font-weight: bold;">Zorluk Seviyesi</th>
     <td style="text-align: left;"> <img src="../0) İçerik Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"/> </td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Çözüm Dili</th>
-    <td style="text-align: left;">Kotlin</td>
-  </tr>
-  <tr>
     <th style="text-align: left; font-weight: bold;">Eklenme Tarihi</th>
     <td style="text-align: left;">1 Aralık 2024</td>
+  </tr>
+  <tr>
+    <th style="text-align: left; font-weight: bold;">Anahtar Kelime</th>
+    <td style="text-align: left;"></td>
   </tr>
 </table>
 
@@ -92,18 +96,18 @@ kaldırın ve güncellenmiş bağlantılı listenin başını döndürün.
 <table>
   <thead>
     <tr>
-      <th>Çözüm Dili</th>
-      <th>Çözüm</th>
-      <th>Zaman Karmaşıklığı</th>
-      <th>Yer Karmaşıklığı</th>
+      <th>Dil</th>
+      <th>Zaman Karmaşıklığı ⏳</th>
+      <th>Bellek Karmaşıklığı 🧠</th>
+      <th>Çözüm Tarihi 📅</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Kotlin</td>
-      <td align="center"> <a href="./Kotlin.kt" target="_blank"> <img src="../0) İçerik Resources/Link.png" alt="Kotlin Çözümü" width="30"/> </a> </td>
+      <td> <a href="./Kotlin.kt" target="_blank">Kotlin</a> </td>
       <td align="center">O(n)</td>
       <td align="center">O(1)</td>
+      <td align="center">1 Aralık 2024</td>
     </tr>
   </tbody>
 </table>
