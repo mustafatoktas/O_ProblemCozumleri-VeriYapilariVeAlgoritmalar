@@ -43,6 +43,13 @@ Amacım, hem kendi öğrenme sürecimi belgelemek hem de bu konulara ilgi duyan 
   <tbody>
   <tr>
       <td>LeetCode</td>
+      <td> <a href="./İçerikler/7) Remove Nth Node From End of List/Problem.md">Listenin Sonundan n'inci Düğümü Kaldır (Remove Nth Node From End of List)</a> </td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
+      <td>Kotlin</td>
+      <td>1 Aralık 2024</td>
+    </tr>
+  <tr>
+      <td>LeetCode</td>
       <td> <a href="./İçerikler/6) Daily Temperatures/Problem.md">Günlük Sıcaklıklar (Daily Temperatures)</a> </td>
       <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
       <td>Kotlin</td>
