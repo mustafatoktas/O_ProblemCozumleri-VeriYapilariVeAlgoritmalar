@@ -1,5 +1,5 @@
 <h1 align="center">
-Algoritma Pratikleri<a name="readme-top"></a>
+Algoritmik Kodlama Problemleri ve Çözümler<a name="readme-top"></a>
 </h1>
 
 <div align="center">
@@ -9,7 +9,7 @@ Algoritma Pratikleri<a name="readme-top"></a>
 ## İçindekiler  
 
 - [Repository Hakkında](#repository-hakkında)
-- [Algoritmik Problemler](#algoritmik-problemler)
+- [Problemler Tablosu](#problemler-tablosu)
 - [Big O Notasyonu Karmaşıklık Çizelgesi](#big-o-notasyonu-karmaşıklık-çizelgesi)
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
@@ -31,7 +31,7 @@ algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kay
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-## Algoritmik Problemler
+## Problemler Tablosu
 
 <table>
   <thead>
@@ -45,6 +45,14 @@ algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kay
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>TechCareer</td>
+      <td> <a href="./İçerikler/10) Filtering Gmail Addresses from a List/Problem.md">Listeden Gmail Adreslerini Filtreleme (Filtering Gmail Addresses from a List)</a> </td>
+      <td>Array & List</td>
+      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td>Kotlin</td>
+      <td>3 Aralık 2024</td>
+    </tr>
   <tr>
       <td>LeetCode</td>
       <td> <a href="./İçerikler/9) Find the Duplicate Number/Problem.md">Tekrarlanan Numarayı Bulma (Find the Duplicate Number)</a> </td>
