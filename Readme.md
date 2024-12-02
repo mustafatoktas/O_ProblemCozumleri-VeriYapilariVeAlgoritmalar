@@ -1,5 +1,5 @@
 <h1 align="center">
-Kodlama Pratikleri: Veri Yapıları ve Algoritmalar<a name="readme-top"></a>
+Problem Çözümleri: Veri Yapıları ve Algoritmalar<a name="readme-top"></a>
 </h1>
 
 <div align="center">
