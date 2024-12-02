@@ -91,8 +91,8 @@ melissa@gmail.com
   <tbody>
     <tr>
       <td> <a href="./Kotlin.kt" target="_blank">Kotlin</a> </td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">O(n)</td>
+      <td align="center">O(n)</td>
       <td align="center">3 Aralık 2024</td>
     </tr>
   </tbody>
