@@ -15,7 +15,7 @@ Problem Çözümleri: Veri Yapıları ve Algoritmalar<a name="readme-top"></a>
 - [İletişim](#i̇letişim)
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Repository Hakkında 
 
@@ -29,7 +29,7 @@ Amacım, hem kendi öğrenim sürecimi belgeleyerek sürekli bir gelişim ortam�
 algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kaynak sunmaktır.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Problemler Tablosu
 
@@ -47,114 +47,114 @@ algoritma problemleriyle ilgilenen diğer geliştiriciler için faydalı bir kay
   <tbody>
   <tr>
       <td>TechCareer</td>
-      <td> <a href="./İçerikler/10) Filtering Gmail Addresses from a List/Problem.md">Listeden Gmail Adreslerini Filtreleme (Filtering Gmail Addresses from a List)</a> </td>
+      <td><a href="./İçerikler/10 Filtering Gmail Addresses from a List/Problem.md">Listeden Gmail Adreslerini Filtreleme (Filtering Gmail Addresses from a List)</a></td>
       <td>Array & List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
       <td>Kotlin</td>
       <td>3 Aralık 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/9) Find the Duplicate Number/Problem.md">Tekrarlanan Numarayı Bulma (Find the Duplicate Number)</a> </td>
+      <td><a href="./İçerikler/9 Find the Duplicate Number/Problem.md">Tekrarlanan Numarayı Bulma (Find the Duplicate Number)</a></td>
       <td>Linked List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"></td>
       <td>Kotlin</td>
       <td>2 Aralık 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/8) Intersection of Two Linked Lists/Problem.md">Bağlı İki Listenin Kesişimi (Intersection of Two Linked Lists)</a> </td>
+      <td><a href="./İçerikler/8 Intersection of Two Linked Lists/Problem.md">Bağlı İki Listenin Kesişimi (Intersection of Two Linked Lists)</a></td>
       <td>Linked List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
       <td>Kotlin</td>
       <td>1 Aralık 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/7) Remove Nth Node From End of List/Problem.md">Listenin Sonundan n'inci Düğümü Kaldır (Remove Nth Node From End of List)</a> </td>
+      <td><a href="./İçerikler/7 Remove Nth Node From End of List/Problem.md">Listenin Sonundan n'inci Düğümü Kaldır (Remove Nth Node From End of List)</a></td>
       <td>Linked List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"></td>
       <td>Kotlin</td>
       <td>1 Aralık 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/6) Daily Temperatures/Problem.md">Günlük Sıcaklıklar (Daily Temperatures)</a> </td>
+      <td><a href="./İçerikler/6 Daily Temperatures/Problem.md">Günlük Sıcaklıklar (Daily Temperatures)</a></td>
       <td>Stack & Queue</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"></td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/5) Baseball Game/Problem.md">Beyzbol Oyunu (Baseball Game)</a> </td>
+      <td><a href="./İçerikler/5 Baseball Game/Problem.md">Beyzbol Oyunu (Baseball Game)</a></td>
       <td>Stack & Queue</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
     </tr>
   <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/4) Implement Stack using Queues/Problem.md">Kuyruk Kullanarak Yığın Uygulaması (Implement Stack using Queues)</a> </td>
+      <td><a href="./İçerikler/4 Implement Stack using Queues/Problem.md">Kuyruk Kullanarak Yığın Uygulaması (Implement Stack using Queues)</a></td>
       <td>Stack & Queue</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
       <td>Kotlin</td>
       <td>29 Kasım 2024</td>
     </tr>
     <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/3) Majority Element/Problem.md">Çoğunluk Elemanı (Majority Element)</a> </td>
+      <td><a href="./İçerikler/3 Majority Element/Problem.md">Çoğunluk Elemanı (Majority Element)</a></td>
       <td>Array & List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
-      <td>Kotlin, C#</td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
+      <td>Kotlin<br>C#</td>
       <td>28 Kasım 2024</td>
     </tr>
     <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/2) Single Number/Problem.md">Tek Sayı (Single Number)</a> </td>
+      <td><a href="./İçerikler/2 Single Number/Problem.md">Tek Sayı (Single Number)</a></td>
       <td>Array & List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
-      <td>Kotlin, C#</td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
+      <td>Kotlin<br>C#</td>
       <td>2 Kasım 2024</td>
     </tr>
     <tr>
       <td>LeetCode</td>
-      <td> <a href="./İçerikler/1) Contains Dublicate/Problem.md">Yinelenen Eleman (Contains Duplicate)</a> </td>
+      <td><a href="./İçerikler/1 Contains Dublicate/Problem.md">Yinelenen Eleman (Contains Duplicate)</a></td>
       <td>Array & List</td>
-      <td> <img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"> </td>
-      <td>Kotlin, C#</td>
+      <td><img src="./Readme Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"></td>
+      <td>Kotlin<br>C#</td>
       <td>31 Ekim 2024</td>
     </tr>
   </tbody>
 </table>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Big O Notasyonu Karmaşıklık Çizelgesi
 
 <img src="./Readme Resources/Big O Karmaşıklık Grafiği.png" alt="Big O Notasyonu Karmaşıklık Çizelgesi" height="450"/>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zuytvs6kx4d8bge&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=zuytvs6kx4d8bge&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
 </div>
 
-  <br>
+<br>
   
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="./Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="./Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Lisans
 
 ```
-Copyright 2024 Mustafa TOKTAŞ
+Copyright 2024-2025 Mustafa TOKTAŞ
 
 Licensed under the GNU General Public License v3.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -170,14 +170,14 @@ limitations under the License.
 ```
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
-<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="./Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="./Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="./Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
-<p align="center">
-  <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
-</p>
+<div align="center">
+  <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>

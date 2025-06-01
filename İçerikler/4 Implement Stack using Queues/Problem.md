@@ -1,6 +1,7 @@
 <h1 align="center">
 Kuyruk (Queue) Kullanarak Yığın (Stack) Uygulaması<a name="article-top"></a>
 </h1>
+
 <h3 align="center">Implement Stack using Queues</h3>
 
 ## İçindekiler
@@ -14,29 +15,29 @@ Kuyruk (Queue) Kullanarak Yığın (Stack) Uygulaması<a name="article-top"></a>
 
 <table>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Kaynak</th>
-    <td style="text-align: left;">LeetCode</td>
+    <th style="font-weight: bold;">Kaynak</th>
+    <td>LeetCode</td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Kategori</th>
-    <td style="text-align: left;">Stack & Queue</td>
+    <th style="font-weight: bold;">Kategori</th>
+    <td>Stack & Queue</td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Zorluk Seviyesi</th>
-    <td style="text-align: left;"> <img src="../0) İçerik Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/> </td>
+    <th style="font-weight: bold;">Zorluk Seviyesi</th>
+    <td><img src="../0 İçerik Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/></td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Eklenme Tarihi</th>
-    <td style="text-align: left;">29 Kasım 2024</td>
+    <th style="font-weight: bold;">Eklenme Tarihi</th>
+    <td>29 Kasım 2024</td>
   </tr>
   <tr>
-    <th style="text-align: left; font-weight: bold;">Anahtar Kelime</th>
-    <td style="text-align: left;"></td>
+    <th style="font-weight: bold;">Anahtar Kelime</th>
+    <td></td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 ## Problem Açıklaması 
 
@@ -72,7 +73,7 @@ Uygulanan yığın, bir yığının normalde desteklediği tüm işlemleri deste
 - Kullanılan dilde doğrudan kuyruk desteği yoksa kuyruk işlemlerini bir liste veya çift yönlü kuyruk (deque) kullanarak simüle edebilirsiniz. Ancak yine de sadece kuyruğun standart işlemlerini kullanmanız gerekiyor.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 ## Örnek
 
@@ -95,7 +96,7 @@ myStack.empty();   // Yığının boş olup olmadığı kontrol edilir: false
 ```
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 ## Kısıtlar
 
@@ -106,7 +107,7 @@ myStack.empty();   // Yığının boş olup olmadığı kontrol edilir: false
 - Tüm `pop` ve `top` işlemleri geçerli çağrılar olacaktır.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 ## Çözüm
 
@@ -121,7 +122,7 @@ myStack.empty();   // Yığının boş olup olmadığı kontrol edilir: false
   </thead>
   <tbody>
     <tr>
-      <td> <a href="./Kotlin.kt" target="_blank">Kotlin</a> </td>
+      <td><a href="./Kotlin.kt">Kotlin</a></td>
       <td align="center">O(1)</td>
       <td align="center">O(1)</td>
       <td align="center">29 Kasım 2024</td>
@@ -140,20 +141,20 @@ Destekleriniz daha fazla problem üzerinde çalışmam için motivasyon sağlar 
 <br>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas" target="_blank"> <img src="../../Readme Resources/İletişim/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/> </a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 <br>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
+![-----------------------------------------------------](../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="../../Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64"/> </a>
-<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="../../Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64"/> </a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="../../Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64"/> </a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
-<p align="center">
-  <a href="#article-top"> <img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
-</p>
+<div align="center">
+  <a href="#article-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>
