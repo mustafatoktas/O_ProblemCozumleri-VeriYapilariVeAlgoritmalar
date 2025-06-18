@@ -1,5 +1,5 @@
 <h1 align="center">
-Tekrarlanan Numarayı Bulma<a name="article-top"></a>
+Tekrarlanan Numarayı Bulma<a name="problem-top"></a>
 </h1>
 
 <h3 align="center">Find the Duplicate Number</h3>
@@ -15,29 +15,29 @@ Tekrarlanan Numarayı Bulma<a name="article-top"></a>
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Kaynak</th>
+    <th>Kaynak</th>
     <td>LeetCode</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Kategori</th>
+    <th>Kategori</th>
     <td>Linked List</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Zorluk Seviyesi</th>
-    <td><img src="../0 İçerik Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"/></td>
+    <th>Zorluk Seviyesi</th>
+    <td><img src="../0 Content Resources/Zorluk Seviyeleri/Normal.png" alt="Normal" height="20"/></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Eklenme Tarihi</th>
+    <th>Eklenme Tarihi</th>
     <td>2 Aralık 2024</td>
   </tr>
     <tr>
-    <th style="font-weight: bold;">Anahtar Kelime</th>
+    <th>Anahtar Kelime</th>
     <td>Tavşan-Kaplumbağa yöntemi - Floyd’un Döngü Algılama Algoritması (Floyd's Cycle Detection)</td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Problem Açıklaması 
 
@@ -49,7 +49,7 @@ Dizide yalnızca bir tekrarlanan sayı var. Bu sayıyı bulun ve döndürün.
 Bu problemi çözmek için diziyi değiştirmeden ve yalnızca
 sabit ekstra alan kullanarak çözüm bulmalısınız.
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Örnekler
 
@@ -72,7 +72,7 @@ sabit ekstra alan kullanarak çözüm bulmalısınız.
   **Çıktı:** `3`
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Kısıtlar
 
@@ -82,7 +82,7 @@ sabit ekstra alan kullanarak çözüm bulmalısınız.
 - Dizide yalnızca bir sayı birden fazla kez, diğer sayılar ise yalnızca bir kez görünür.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Çözüm
 
@@ -97,7 +97,7 @@ sabit ekstra alan kullanarak çözüm bulmalısınız.
   </thead>
   <tbody>
     <tr>
-      <td><a href="./Kotlin - nkare.kt">Kotlin</a></td>
+      <td><a href="./Kotlin.kt">Kotlin</a></td>
       <td align="center">O(n²)</td>
       <td align="center">O(1)</td>
       <td align="center">2 Aralık 2024</td>
@@ -116,20 +116,20 @@ Destekleriniz daha fazla problem üzerinde çalışmam için motivasyon sağlar 
 <br>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Contact/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 <br>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
-  <a href="#article-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+  <a href="#problem-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
 </div>

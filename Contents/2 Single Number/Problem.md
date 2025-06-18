@@ -1,5 +1,5 @@
 <h1 align="center">
-Tek Sayı<a name="article-top"></a>
+Tek Sayı<a name="problem-top"></a>
 </h1>
 
 <h3 align="center">Single Number</h3>
@@ -15,29 +15,29 @@ Tek Sayı<a name="article-top"></a>
 
 <table>
   <tr>
-    <th style="font-weight: bold;">Kaynak</th>
+    <th>Kaynak</th>
     <td>LeetCode</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Kategori</th>
+    <th>Kategori</th>
     <td>Array & List</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Zorluk Seviyesi</th>
-    <td><img src="../0 İçerik Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/></td>
+    <th>Zorluk Seviyesi</th>
+    <td><img src="../0 Content Resources/Zorluk Seviyeleri/Kolay.png" alt="Kolay" height="20"/></td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Eklenme Tarihi</th>
+    <th>Eklenme Tarihi</th>
     <td>2 kasım 2024</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Anahtar Kelime</th>
+    <th>Anahtar Kelime</th>
     <td></td>
   </tr>
 </table>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Problem Açıklaması 
 
@@ -46,7 +46,7 @@ Boş olmayan bir `nums` tamsayı dizisi veriliyor. Dizideki her eleman iki kez y
 Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalışma süresi karmaşıklığında (O(n)) olacak şekilde gerçekleştirmeniz gerekiyor.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Örnekler
 
@@ -69,7 +69,7 @@ Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalı
   **Çıktı:** `1`
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Kısıtlar
 
@@ -80,7 +80,7 @@ Bu çözümü yalnızca sabit bir ekstra alan kullanarak ve doğrusal bir çalı
 - Dizideki her eleman iki kez geçerken yalnızca bir eleman bir kez geçer.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## Çözüm
 
@@ -120,20 +120,20 @@ Destekleriniz daha fazla problem üzerinde çalışmam için motivasyon sağlar 
 <br>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="../../Readme Resources/Contact/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 <br>
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../../Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="../../Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="../../Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="../../Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
-  <a href="#article-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+  <a href="#problem-top"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
 </div>
